@@ -15,7 +15,7 @@ Below are the framework diagrams for the MapReduce implementations:
 
 | MapReduce Chaining | Single MapReduce Job |
 |--------------------|----------------------|
-| ![MapReduce Chaining Diagram]([images/mapreduce_chaining.png](https://github.com/hawra-nawi/HPC-Framework-for-Analyzing-UK-Energy-Consumption/blob/main/MapReduce%20Frameworks/1.%20MapReduce%20Chaining%20Workflow.png) | ![Single MapReduce Job Diagram](https://github.com/hawra-nawi/HPC-Framework-for-Analyzing-UK-Energy-Consumption/blob/main/MapReduce%20Frameworks/2.%20Single%20MapReduce%20Workflow.png) |
+| ![MapReduce Chaining Diagram](https://github.com/hawra-nawi/HPC-Framework-for-Analyzing-UK-Energy-Consumption/blob/main/MapReduce%20Frameworks/1.%20MapReduce%20Chaining%20Workflow.png) | ![Single MapReduce Job Diagram](https://github.com/hawra-nawi/HPC-Framework-for-Analyzing-UK-Energy-Consumption/blob/main/MapReduce%20Frameworks/2.%20Single%20MapReduce%20Workflow.png) |
 
 ## **Technologies and Tools**  
 - **Apache Hadoop**: Distributed data processing framework.
